@@ -32,5 +32,9 @@
 <br><br>
 
 <b>In this stage, a watchlist is created in Microsoft Sentinel to track known Tor exit node IP addresses. Watchlists allow analysts to centralize reference data (e.g., IPs, domains, or user lists) and reuse it across multiple analytics rules. Watchlists are KQL-queryable and easily modifiable, making them a flexible way to maintain dynamic threat intelligence feeds.<b>
+<br><br>
+
+<b>With the watchlist in place, the enxt step is creating a custom analytics rule in Sentinel to detect suspicious activity. Using KQL, a rule is designed to identify successful sign-ins originating from Tor exit node IP addresses stored in the watchlist. The rule is enriched with key entities such as user accounts and IP addresses, allowing incidents to provide meaningful context during investigations. Severity levels and MITRE ATT&CK tactics are also assigned, aligning detections with standard threat categories.<b>
+
 
 
