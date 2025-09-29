@@ -1,5 +1,11 @@
 # SIEM Implementation in Azure Cloud
 
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure)  
+![Sentinel](https://img.shields.io/badge/Microsoft-Sentinel-purple?logo=microsoft-azure)  
+![SIEM](https://img.shields.io/badge/SIEM-Implementation-success)  
+![SOC](https://img.shields.io/badge/SOC-Operations-orange)  
+![KQL](https://img.shields.io/badge/KQL-Querying-lightgrey)  
+![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-2CA5E0?logo=powershell)  
 
 
 
